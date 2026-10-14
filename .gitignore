@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.log
+.DS_Store
+# Never publish raw user data containing names/emails
+Users.csv
+*Users*.xlsx

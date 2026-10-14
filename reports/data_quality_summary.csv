@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,MissingCells,DuplicateRows,DuplicatePrimaryKeys
+Users,3000,3,0,0,0
+Courses,60,8,0,0,0
+Teachers,60,7,0,0,0
+Transactions,10000,7,0,0,0
